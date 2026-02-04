@@ -18,10 +18,6 @@ Using the np.linalg.solve(), we can find the solutions.
 # Step 4:
 End the program
 
-Program:
-Output:
-Result:
-Thus the solutions for the linear equations are successfully solved using python program
 ## Program:
 ```#Program to find the rank of a matrix.
 #Developed by: Jegan P
